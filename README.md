@@ -1,20 +1,20 @@
-# TikTok Claims Classification – Advanced Data Analytics Project
+# TikTok Claims Classification Project
 
-This repository contains a hands-on data analytics and machine learning project completed as part of the **Google Advanced Data Analytics** course on **Coursera**.
+This repository contains a hands on data analytics and machine learning project completed as part of the **Google Advanced Data Analytics** course on **Coursera**.
 
 ## 📌 Project Description
 
-The goal of this project is to develop a **machine learning model** to classify user-submitted claims on **TikTok**. As part of the process, I conduct data cleaning, exploratory data analysis (EDA), statistical testing, and model building.
+The goal of this project is to develop a **machine learning model** to classify user submitted claims on **TikTok**. As part of the process, I conduct data cleaning, exploratory data analysis (EDA), statistical testing, and model building.
 
 In one stage of the project, I focus on **hypothesis testing** to examine the relationship between `verified_status` and `video_view_count` to determine whether verification influences a video's visibility.
 
 ## 🎯 Objectives
 
-- Analyze and clean real-world TikTok user data
+- Analyze and clean real world TikTok user data
 - Explore the relationship between verification status and video performance
 - Apply statistical methods such as hypothesis testing
 - Build predictive models to classify claims
-- Generate clear, well-documented reports for each analysis phase
+- Documented reports for each analysis phase
 
 ## 🧠 What I Learned
 
@@ -28,7 +28,7 @@ In one stage of the project, I focus on **hypothesis testing** to examine the re
 
 - **Python**: pandas, numpy, scipy, matplotlib, seaborn, scikit-learn
 - **Jupyter Notebooks**: for code, analysis, and visualizations
-- **Statistical Methods**: Hypothesis testing (t-tests), correlation, EDA
+- **Statistical Methods**: Hypothesis testing , correlation, EDA
 - **Machine Learning**: Regression, classification
 - **Documentation**: Written reports for each section
 
@@ -54,8 +54,11 @@ Each section includes a detailed report covering:
 - Visualizations and test results
 - Key insights and next steps
 
-## 🚀 Getting Started
+## 📚 Course Context
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/SufyanAlwjali96/TikTok.git
+This project was developed while completing the Google Advanced Data Analytics Professional Certificate on Coursera, which focuses on real world applications of analytics in Python.
+
+## 🙏 Acknowledgments
+
+Thanks to Google and Coursera for providing the learning materials and real world project frameworks.
+This project reflects my personal learning journey and practical application of the course content.
